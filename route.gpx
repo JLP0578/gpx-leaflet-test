@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <metadata>
+    <time>2021-04-15T09:48:18.906Z</time>
+    <bounds minlat="44.536330000" minlon="6.078840000" maxlat="44.555450000" maxlon="6.131870000"/>
+  </metadata>
+  <rte>
+    <name>12050970-31 - 39 - L'hermitage</name>
+    <desc>Generated from track 12050970-31 - 39 - L'hermitage</desc>
+    <rtept lat="44.544770000" lon="6.131870000">
+      <ele>948.000000</ele>
+      <time>2021-04-15T09:48:18Z</time>
+      <name>RPT001</name>
+    </rtept>
+    <rtept lat="44.541240000" lon="6.126330000">
+      <ele>958.000000</ele>
+      <time>2021-04-15T09:50:22Z</time>
+      <name>RPT002</name>
+    </rtept>
+    <rtept lat="44.536330000" lon="6.115200000">
+      <ele>959.000000</ele>
+      <time>2021-04-15T09:54:01Z</time>
+      <name>RPT003</name>
+    </rtept>
+    <rtept lat="44.538210000" lon="6.113910000">
+      <ele>947.000000</ele>
+      <time>2021-04-15T09:54:54Z</time>
+      <name>RPT004</name>
+    </rtept>
+    <rtept lat="44.538670000" lon="6.111560000">
+      <ele>947.000000</ele>
+      <time>2021-04-15T09:55:34Z</time>
+      <name>RPT005</name>
+    </rtept>
+    <rtept lat="44.539560000" lon="6.110640000">
+      <ele>944.000000</ele>
+      <time>2021-04-15T09:56:01Z</time>
+      <name>RPT006</name>
+    </rtept>
+    <rtept lat="44.541130000" lon="6.110790000">
+      <ele>924.000000</ele>
+      <time>2021-04-15T09:56:38Z</time>
+      <name>RPT007</name>
+    </rtept>
+    <rtept lat="44.543130000" lon="6.108220000">
+      <ele>894.000000</ele>
+      <time>2021-04-15T09:57:48Z</time>
+      <name>RPT008</name>
+    </rtept>
+    <rtept lat="44.543350000" lon="6.109070000">
+      <ele>889.000000</ele>
+      <time>2021-04-15T09:58:04Z</time>
+      <name>RPT009</name>
+    </rtept>
+    <rtept lat="44.545340000" lon="6.101100000">
+      <ele>839.000000</ele>
+      <time>2021-04-15T10:00:53Z</time>
+      <name>RPT010</name>
+    </rtept>
+    <rtept lat="44.542700000" lon="6.102120000">
+      <ele>898.000000</ele>
+      <time>2021-04-15T10:02:19Z</time>
+      <name>RPT011</name>
+    </rtept>
+    <rtept lat="44.539570000" lon="6.102410000">
+      <ele>943.000000</ele>
+      <time>2021-04-15T10:03:34Z</time>
+      <name>RPT012</name>
+    </rtept>
+    <rtept lat="44.538430000" lon="6.100840000">
+      <ele>937.000000</ele>
+      <time>2021-04-15T10:04:12Z</time>
+      <name>RPT013</name>
+    </rtept>
+    <rtept lat="44.537550000" lon="6.101290000">
+      <ele>950.000000</ele>
+      <time>2021-04-15T10:04:34Z</time>
+      <name>RPT014</name>
+    </rtept>
+    <rtept lat="44.538860000" lon="6.099270000">
+      <ele>919.000000</ele>
+      <time>2021-04-15T10:05:21Z</time>
+      <name>RPT015</name>
+    </rtept>
+    <rtept lat="44.539180000" lon="6.095030000">
+      <ele>883.000000</ele>
+      <time>2021-04-15T10:06:35Z</time>
+      <name>RPT016</name>
+    </rtept>
+    <rtept lat="44.537110000" lon="6.090100000">
+      <ele>844.000000</ele>
+      <time>2021-04-15T10:08:17Z</time>
+      <name>RPT017</name>
+    </rtept>
+    <rtept lat="44.538330000" lon="6.090080000">
+      <ele>837.000000</ele>
+      <time>2021-04-15T10:08:46Z</time>
+      <name>RPT018</name>
+    </rtept>
+    <rtept lat="44.539220000" lon="6.088580000">
+      <ele>822.000000</ele>
+      <time>2021-04-15T10:09:19Z</time>
+      <name>RPT019</name>
+    </rtept>
+    <rtept lat="44.545830000" lon="6.084900000">
+      <ele>774.000000</ele>
+      <time>2021-04-15T10:12:09Z</time>
+      <name>RPT020</name>
+    </rtept>
+    <rtept lat="44.545120000" lon="6.078950000">
+      <ele>796.000000</ele>
+      <time>2021-04-15T10:13:53Z</time>
+      <name>RPT021</name>
+    </rtept>
+    <rtept lat="44.552640000" lon="6.078840000">
+      <ele>743.000000</ele>
+      <time>2021-04-15T10:16:57Z</time>
+      <name>RPT022</name>
+    </rtept>
+    <rtept lat="44.551810000" lon="6.078890000">
+      <ele>751.000000</ele>
+      <time>2021-04-15T10:17:18Z</time>
+      <name>RPT023</name>
+    </rtept>
+    <rtept lat="44.554140000" lon="6.080480000">
+      <ele>771.000000</ele>
+      <time>2021-04-15T10:18:29Z</time>
+      <name>RPT024</name>
+    </rtept>
+    <rtept lat="44.552680000" lon="6.081690000">
+      <ele>809.000000</ele>
+      <time>2021-04-15T10:19:17Z</time>
+      <name>RPT025</name>
+    </rtept>
+    <rtept lat="44.554240000" lon="6.082820000">
+      <ele>803.000000</ele>
+      <time>2021-04-15T10:20:03Z</time>
+      <name>RPT026</name>
+    </rtept>
+    <rtept lat="44.553800000" lon="6.082750000">
+      <ele>812.000000</ele>
+      <time>2021-04-15T10:20:13Z</time>
+      <name>RPT027</name>
+    </rtept>
+    <rtept lat="44.554390000" lon="6.084800000">
+      <ele>832.000000</ele>
+      <time>2021-04-15T10:20:52Z</time>
+      <name>RPT028</name>
+    </rtept>
+    <rtept lat="44.553650000" lon="6.087120000">
+      <ele>893.000000</ele>
+      <time>2021-04-15T10:21:39Z</time>
+      <name>RPT029</name>
+    </rtept>
+    <rtept lat="44.554130000" lon="6.089970000">
+      <ele>944.000000</ele>
+      <time>2021-04-15T10:22:34Z</time>
+      <name>RPT030</name>
+    </rtept>
+    <rtept lat="44.553590000" lon="6.089520000">
+      <ele>955.000000</ele>
+      <time>2021-04-15T10:22:49Z</time>
+      <name>RPT031</name>
+    </rtept>
+    <rtept lat="44.555450000" lon="6.095440000">
+      <ele>916.000000</ele>
+      <time>2021-04-15T10:24:39Z</time>
+      <name>RPT032</name>
+    </rtept>
+    <rtept lat="44.554270000" lon="6.102730000">
+      <ele>892.000000</ele>
+      <time>2021-04-15T10:26:53Z</time>
+      <name>RPT033</name>
+    </rtept>
+    <rtept lat="44.555390000" lon="6.114990000">
+      <ele>844.000000</ele>
+      <time>2021-04-15T10:30:23Z</time>
+      <name>RPT034</name>
+    </rtept>
+    <rtept lat="44.554090000" lon="6.118920000">
+      <ele>841.000000</ele>
+      <time>2021-04-15T10:31:37Z</time>
+      <name>RPT035</name>
+    </rtept>
+    <rtept lat="44.553230000" lon="6.118990000">
+      <ele>840.000000</ele>
+      <time>2021-04-15T10:31:57Z</time>
+      <name>RPT036</name>
+    </rtept>
+    <rtept lat="44.551870000" lon="6.122160000">
+      <ele>843.000000</ele>
+      <time>2021-04-15T10:32:59Z</time>
+      <name>RPT037</name>
+    </rtept>
+    <rtept lat="44.549950000" lon="6.122240000">
+      <ele>850.000000</ele>
+      <time>2021-04-15T10:33:45Z</time>
+      <name>RPT038</name>
+    </rtept>
+    <rtept lat="44.548880000" lon="6.125930000">
+      <ele>859.000000</ele>
+      <time>2021-04-15T10:34:53Z</time>
+      <name>RPT039</name>
+    </rtept>
+    <rtept lat="44.546860000" lon="6.128820000">
+      <ele>911.000000</ele>
+      <time>2021-04-15T10:36:05Z</time>
+      <name>RPT040</name>
+    </rtept>
+    <rtept lat="44.546930000" lon="6.131030000">
+      <ele>908.000000</ele>
+      <time>2021-04-15T10:36:45Z</time>
+      <name>RPT041</name>
+    </rtept>
+    <rtept lat="44.546160000" lon="6.129620000">
+      <ele>942.000000</ele>
+      <time>2021-04-15T10:37:40Z</time>
+      <name>RPT042</name>
+    </rtept>
+    <rtept lat="44.546080000" lon="6.130400000">
+      <ele>940.000000</ele>
+      <time>2021-04-15T10:37:54Z</time>
+      <name>RPT043</name>
+    </rtept>
+    <rtept lat="44.545790000" lon="6.129230000">
+      <ele>962.000000</ele>
+      <time>2021-04-15T10:38:15Z</time>
+      <name>RPT044</name>
+    </rtept>
+    <rtept lat="44.545540000" lon="6.130350000">
+      <ele>961.000000</ele>
+      <time>2021-04-15T10:38:35Z</time>
+      <name>RPT045</name>
+    </rtept>
+    <rtept lat="44.545340000" lon="6.129730000">
+      <ele>976.000000</ele>
+      <time>2021-04-15T10:38:47Z</time>
+      <name>RPT046</name>
+    </rtept>
+    <rtept lat="44.544870000" lon="6.130460000">
+      <ele>976.000000</ele>
+      <time>2021-04-15T10:39:08Z</time>
+      <name>RPT047</name>
+    </rtept>
+    <rtept lat="44.545360000" lon="6.127240000">
+      <ele>977.000000</ele>
+      <time>2021-04-15T10:40:06Z</time>
+      <name>RPT048</name>
+    </rtept>
+    <rtept lat="44.543700000" lon="6.130150000">
+      <ele>960.000000</ele>
+      <time>2021-04-15T10:41:09Z</time>
+      <name>RPT049</name>
+    </rtept>
+    <rtept lat="44.544670000" lon="6.131750000">
+      <ele>949.000000</ele>
+      <time>2021-04-15T10:41:44Z</time>
+      <name>RPT050</name>
+    </rtept>
+  </rte>
+</gpx>
